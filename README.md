@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/TianYudhistira/seeyou-norm.git
+   git clone https://github.com/septianyudhistira/seeyou-norm.git
 
 
 ## 📘 Documentation
