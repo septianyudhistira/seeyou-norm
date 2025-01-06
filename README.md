@@ -17,6 +17,7 @@ Ecache is a powerful yet simple caching library to help manage temporary data in
 ## 🛠️ Dependencies
 
 - **Ehcache (net.sf.ehcache)**: Manages caching functionality, supporting both in-memory and disk caching.
+- **seeyou-log4j**
 
 ## 🚀 Getting Started
 
