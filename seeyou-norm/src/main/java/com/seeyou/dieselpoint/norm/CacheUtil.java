@@ -26,7 +26,7 @@ public class CacheUtil {
 
     //
     private static Ehcache databaseCache = null;
-    public static String   cacheName     = "balantika";
+    public static String   cacheName     = "seeyou";
 
     public static Ehcache getDatabaseCache() {
         if (cacheMgr == null) {
