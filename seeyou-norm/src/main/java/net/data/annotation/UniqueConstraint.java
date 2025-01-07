@@ -14,5 +14,5 @@ import java.lang.annotation.Target;
 public @interface UniqueConstraint {
     String name() default "";
 
-    String[] columnName();
+    String[] columnNames();
 }
